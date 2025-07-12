@@ -1,0 +1,11 @@
+ID,Type,Expected,Date,Price,Target,Reverse,Target_Hit,Target_Time_h,Reverse_Hit,Reverse_Time_h,Max_Favorable_%,Max_Adverse_%,Execution_%,Overexecution_%,Target_Distance_%,Reverse_Distance_%
+1,bearish_hidden,down,Wed Jan 02,17230,16565,17575,YES,1,YES,1,1.9,1.7,5.3,0,3.9,2
+2,bullish_hidden,up,Wed Jan 02,17169,17687,16826,YES,1,YES,1,3.3,1.5,21.9,0,3,2
+3,bearish_regular,down,Wed Jan 02,16090,15635,16412,YES,1,YES,1,1.2,1.1,12.6,0,2.8,2
+4,bullish_hidden,up,Thu Jan 03,15933,16324,15614,YES,1,YES,1,2.7,0.2,18,0,2.5,2
+5,bullish_hidden,up,Thu Jan 03,16160,16739,15837,YES,1,YES,1,2.8,0.4,4.3,0,3.6,2
+6,bearish_hidden,down,Thu Jan 03,16174,15713,16497,NO,0,YES,1,1.7,0.6,0,0,2.9,2
+7,bullish_regular,up,Thu Jan 03,16563,17103,16232,YES,1,YES,1,2,0.2,24.8,0,3.3,2
+8,bullish_hidden,up,Fri Jan 04,16402,16799,16074,YES,1,YES,1,2.2,1.1,19.1,0,2.4,2
+9,bullish_hidden,up,Fri Jan 04,16915,17194,16577,YES,1,YES,1,1.1,0.7,1.9,0,1.7,2
+10,bullish_regular,up,Fri Jan 04,16637,16949,16304,YES,1,NO,0,0.7,0.5,7.1,0,1.9,2
